@@ -1,0 +1,17 @@
+
+*.pyc
+*.log
+final_fugue.txt
+final_fugue.ly
+final_fugue.mid
+final_fugue.pdf
+tmp-lilypond-0cNVie
+tmp-lilypond-1eVKuA
+tmp-lilypond-Q0sSUF
+tmp-lilypond-wBX1we
+lilytest.ly
+real_juice.mid
+tmp-lilypond-g8V0NH
+TestingEG.py
+test_fugue.ly
+test_fugue.mid
